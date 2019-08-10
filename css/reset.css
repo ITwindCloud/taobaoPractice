@@ -1,0 +1,82 @@
+/*
+#navigate{
+    background-color:red;
+    width:100px;
+    height:100px;
+}*/
+*{
+    margin:0;
+    padding:0;
+}
+ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+body{
+    color: #3C3C3C;
+    /*-webkit-font-smoothing: antialiased;*/
+    background-color: #f4f4f4;
+    font: 12px/1.5 tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif;
+    /*字大小 行高 宋体（unicode）SimSun宋体的英文名称*/
+}
+img{
+    border:none;
+    vertical-align:middle;
+}
+i{
+    font-style:normal;
+}
+a{
+    color:black;
+    text-decoration:none;
+}
+button{
+    outline:none;
+}
+
+.clearfix:after{
+    content:"";
+    display:block;
+    clear:both;
+}
+.fl{
+    float:left;
+}
+.fr{
+    float:right;
+}
+
+.center{
+    width:1190px;
+    margin:0 auto;
+}
+
+.c4{
+    color:#f40;
+}
+.c5{
+    color:#f50;
+}
+.mt10{
+    margin-top:10px;
+}
+.mr10{
+    margin-right:10px;
+}
+
+.mr7{
+    margin-right:7px;
+ }
+.mr5{
+    margin-right:5px;
+}
+
+.table{
+    border-collapse:collapse;
+}
+th,td{
+    padding:0;
+}
+
+
